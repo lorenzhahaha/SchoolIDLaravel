@@ -25,3 +25,31 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+
+# Laravel Assignment
+## Student Registration
+
+A web application that serves the following:<br />
+*Nice GUI<br />
+*Registration Form
+
+<br />
+*Create, Read, Update and Delete<br />
+
+
+## Screenshots
+Here are some of the screenshots ... 
+
+![Image-1](https://github.com/lorenzhahaha/SchoolIDLaravel/blob/master/Lorenz/assignment-1.png)
+![Image-2](https://github.com/lorenzhahaha/SchoolIDLaravel/blob/master/Lorenz/assignment-2.png)
+![Image-3](https://github.com/lorenzhahaha/SchoolIDLaravel/blob/master/Lorenz/assignment-3.png)
+![Image-4](https://github.com/lorenzhahaha/SchoolIDLaravel/blob/master/Lorenz/assignment-5.png)
+
+
+Enjoy!
+<br /><br />
+
+## About Me
+I am Lorenz C. Florentino.<br /> From Bachelor of Science in Information System.<br />
